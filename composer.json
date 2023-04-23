@@ -1,6 +1,7 @@
 {
     "name": "doppiogancio/example-project",
     "description": "An example project to show the benefit of Mocked Client",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "DoppioGancio\\ExampleProject\\": "src/"
